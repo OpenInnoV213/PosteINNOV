@@ -275,8 +275,6 @@ pre {
 }
 .logo {
     display: block;
-    width: 300px; /* Set the width of your image */
-    height: 100px; /* Set the height of your image */
     background: url('../assets/img/Postinnov.png') no-repeat center center;
     background-size: cover; /* or "contain" depending on your preference */
     text-indent: -9999px; /* Hide the text content */
